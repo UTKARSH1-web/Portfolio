@@ -15,43 +15,46 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Software Developer</h4>
+                <h5>Fidelity Investments</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Built end-to-end transactional customer-facing screens in the
+              NetBenefits monorepo app with complete UI, routing, and API
+              integration. Upgraded server-side code maturity from Level 2 to
+              Level 4, resolving 50+ SonarQube issues.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Data Scientist</h4>
+                <h5>Ab-inBev</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2023</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Automated data processing tasks with Python achieving 80%
+              reduction in manual workload. Leveraged SQL for data extraction
+              and Power BI for crafting interactive dashboards, improving
+              decision-making by 70%.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Software Developer</h4>
+                <h5>Cartosense</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2022</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Researched and collaborated on Python scripts, enhancing the
+              precision and accuracy of a smart brain surgical instrument by
+              95%, leading to more precise surgical procedures and improved
+              patient outcomes.
             </p>
           </div>
         </div>
